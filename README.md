@@ -2,6 +2,8 @@
 PermaList is a simple to-do list web application built with Node.js, Express.js, and PostgreSQL. It allows users to create, edit, and delete tasks on their to-do list. The application provides a user-friendly interface for managing tasks efficiently.
 
 # Screenshot
+![Screenshot 2024-11-11 035923](https://github.com/user-attachments/assets/daf2b868-7948-4048-8d97-5272fed6938b)
+
 
 # Features
 Create Tasks: Users can add new tasks to their to-do list.
